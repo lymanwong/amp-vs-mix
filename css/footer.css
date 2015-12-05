@@ -1,0 +1,26 @@
+
+/*FOOTER STYLING*/
+#footer {
+  background-color: #14649c;
+  padding: 2% 0 2% 0;
+}
+
+#footer a{
+  text-decoration: none;
+  color: white;
+}
+
+#footer div{
+  display:inline-block;
+}
+
+#footer .footer_links {
+  padding: 0% 5% 0% 5%;
+  margin-left: 10%;
+}
+
+#footer .glyphicon {
+  color: white;
+  padding-right: 5px;
+  padding-top: 2px;
+}

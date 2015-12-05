@@ -1,0 +1,49 @@
+/*LENSES SECTION STYLING*/
+#lenses {
+  background-color: #1A8AD1;
+  color: white;
+}
+
+#lenses .row {
+  height:auto;
+  width:1000px;
+}
+
+#lenses .left_image_padding {
+  padding-left:28%;
+  margin-top: -4%;
+}
+
+#lenses .right_image_padding {
+  margin-top: -4%;
+}
+
+#lenses .title_styling {
+  text-align: center;
+  font-size: 20px;
+  padding: 5% 0 5% 0;
+}
+
+#lenses .lens_container {
+  margin: 0 15% 0 15%;
+}
+
+#lenses .right_lens_description {
+  margin: 0 11% 10% 43%;
+  padding-left: 10%;
+  font-size: 12px;
+}
+
+#lenses .left_lens_description {
+  margin: 0% 28% 10% 30%;
+  padding-left: 5%;
+  font-size: 12px;
+}
+
+#lenses .left_float {
+  float:left;
+}
+
+#lenses .right_float {
+  float:right;
+}

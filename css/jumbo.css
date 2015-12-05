@@ -1,0 +1,44 @@
+/*JUMBO STYLING*/
+#jumbo .row {
+  margin-top:-1.812%
+}
+
+#jumbo .article_title_styling {
+  color:#2899d6;
+}
+
+#jumbo .paragraph_2 {
+  padding-top: 10%;
+}
+
+#jumbo .partners_background_coloring {
+  background-color: #f6f6f6;
+}
+
+#jumbo .partners_text_coloring {
+  color:#f93;
+}
+
+#jumbo .partner_column_margins {
+  margin: 10% 20% 44% 20%;
+}
+
+#jumbo .left_partner_column_spacing{
+  margin-left: -5%;
+}
+
+#jumbo img{
+  margin-top:35%;
+  margin-bottom: 5%;
+  display:inline-block;
+  zoom: 30%;
+}
+
+#jumbo .right_partner_column_spacing{
+  margin-left: 30%;
+  margin-top: -3%;
+}
+
+#jumbo .vs_column {
+  margin:10% 15% 10% 15%;
+}

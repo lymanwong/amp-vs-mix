@@ -1,0 +1,22 @@
+/*GLOBAL STYLING*/
+@font-face {
+  font-family: proxima-nova;
+  src: url(../font/ProximaNova-Bold.otf);
+}
+
+@font-face {
+  font-family: proxima-nova;
+  src: url(../font/ProximaNova-Light.otf);
+}
+
+@font-face {
+  font-family: proxima-nova;
+  src: url(../font/ProximaNova-Regular.otf);
+}
+
+body {
+  font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-size: 16px;
+  color:#777 !important;
+  font-size: normal !important;
+}

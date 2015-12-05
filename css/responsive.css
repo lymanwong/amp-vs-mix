@@ -1,0 +1,2103 @@
+/*==================================================
+=            Media Queries                       =
+==================================================*/
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+
+  #nav .navbar-brand {
+    padding-left: 11%;
+  }
+
+  #jumbo .vs_column {
+    margin: 5% 15% 10% 13%;
+  }
+
+  #jumbo h2 {
+    font-size: 21px;
+  }
+
+  #jumbo h4 {
+    font-size:
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 15% 44% 12%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    margin-left: 0;
+  }
+
+  #jumbo img {
+    zoom: 35%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 7%;
+  }
+
+  #lenses .right_lens_description {
+    margin: 0 72% 5% -8%;
+  }
+
+  #lenses .right_image_padding {
+    margin-left: 7%;
+  }
+
+  #lenses .left_lens_description {
+    margin: 3% 72% 9% -3%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding: 0% 10% 3% 7%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding: 0 0 0 7%;
+  }
+
+  #lenses .left_lens_description2 {
+    margin: 0 73% 5% 2%;
+  }
+
+  #footer .footer_links {
+    padding: 0 0 0 20%;
+  }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 479px) {
+  body {
+    font-size: 14px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .navbar-brand {
+    padding-left: 17%
+  }
+
+  #jumbo h2 {
+    font-size: 26px;
+  }
+
+  #jumbo h4 {
+    font-size: 16px;
+  }
+
+  #jumbo .col-xs-6 {
+    width: 100%;
+  }
+
+  #jumbo .vs_column {
+    margin: 5% 15% 10% 18%;
+  }
+
+  #jumbo .partners_background_coloring {
+    margin-top: -.9%;
+    padding-bottom: 5%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    padding-top: 2%;
+    margin-left: -5%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 15% 44% 17%;
+  }
+
+  #jumbo img {
+    zoom: 45%;
+  }
+
+  #lenses img {
+    zoom:20%;
+  }
+
+  #lenses .left_image_padding {
+    padding: 3% 17% 2% 12%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 12px;
+    margin: 0% 62% 5% -6%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 12px;
+    float: right;
+    margin: 3% 60% 9% -1%;
+  }
+
+  #lenses .right_image_padding {
+    margin: 0% 0% 0% 12%;
+    float: left;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 12%;
+    margin-top: -3%;
+    padding-right: 10%;
+    padding-bottom: 3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 12px;
+    margin: 0% 62% 5% 4%;
+    float: right;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-left: 12%;
+    margin: 0% 44% 0 0;
+    float: left;
+    padding-bottom: 3%;
+  }
+
+  #footer .footer_links {
+    font-size: 12px;
+    padding: 0 0 0% 21%;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 564px){
+  body {
+    font-size: 14px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .navbar-brand {
+    padding-left: 19%;
+  }
+
+  #jumbo h2 {
+    font-size: 26px;
+  }
+
+  #jumbo h4 {
+    font-size: 16px;
+  }
+
+  #jumbo .col-xs-6 {
+    width: 100%;
+  }
+
+  #jumbo .vs_column {
+    margin: 5% 18% 10% 20%;
+  }
+
+  #jumbo .partners_background_coloring {
+    margin-top: -.9%;
+    padding-bottom: 5%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    padding-top: 1%;
+    margin-left: 0%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 22% 44% 20%;
+  }
+
+  #jumbo img {
+    zoom: 45%;
+  }
+
+  #lenses img {
+    zoom:20%;
+  }
+
+  #lenses .left_image_padding {
+    padding: 3% 0 0 1%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 12px;
+    margin: 0% 50% 10% 9%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 12px;
+    margin: 0 63% 10% 0%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -1% 46% 0% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 1%;
+    margin-top: -3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 12px;
+    margin: 0% 65% 0% 5%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-bottom: 10%;
+    margin: 0% 47% 0 0;
+  }
+
+  #footer .footer_links {
+    font-size: 12px;
+    padding: 0 0 0 28%;
+  }
+}
+
+@media only screen and (min-width: 565px) and (max-width: 599px) {
+  body {
+    font-size: 14px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .navbar-brand {
+    padding-left: 25%;
+  }
+
+  #jumbo h2 {
+    font-size: 26px;
+  }
+
+  #jumbo h4 {
+    font-size: 16px;
+  }
+
+  #jumbo .col-xs-6 {
+    width: 100%;
+  }
+
+  #jumbo .vs_column {
+    margin: 5% 16% 10% 26%;
+  }
+
+  #jumbo .partners_background_coloring {
+    margin-top: -.9%;
+    padding-bottom: 5%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    padding-top: 1%;
+    margin-left: 0%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 21% 44% 25%;
+  }
+
+  #jumbo img {
+    zoom: 45%;
+  }
+
+  #lenses img {
+    zoom:20%;
+  }
+
+  #lenses .left_image_padding {
+    padding: 3% 0 0 4%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 12px;
+    margin: 0% 47% 10% 12%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 12px;
+    margin: 0 60% 10% 3%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -1% 43% 0% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 4%;
+    margin-top: -3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 12px;
+    margin: 0% 62% 0% 8%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-bottom: 10%;
+    margin: 0% 44% 0 0;
+  }
+
+  #footer .footer_links {
+    font-size: 12px;
+    padding: 0 0 0 28%;
+  }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 635px){
+  body {
+    font-size: 14px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .logo {
+    margin-left: -125%;
+    height:35px;
+  }
+
+  #jumbo h2 {
+      font-size: 26px;
+    }
+
+    #jumbo h4 {
+      font-size: 16px;
+    }
+
+    #jumbo .col-xs-6 {
+      width: 100%;
+    }
+
+    #jumbo .vs_column {
+      margin: 5% 16% 10% 26%;
+    }
+
+    #jumbo .partners_background_coloring {
+      margin-top: -.9%;
+      padding-bottom: 5%;
+    }
+
+    #jumbo .left_partner_column_spacing {
+      padding-top: 1%;
+      margin-left: 0%;
+    }
+
+    #jumbo .partner_column_margins {
+      margin: 10% 21% 44% 25%;
+    }
+
+    #jumbo img {
+      zoom: 45%;
+    }
+
+    #lenses img {
+      zoom:20%;
+    }
+
+    #lenses .left_image_padding {
+      padding: 3% 0 0 4%;
+    }
+
+    #lenses .right_lens_description {
+      font-size: 12px;
+      margin: 0% 47% 10% 12%;
+    }
+
+    #lenses .left_lens_description {
+      font-size: 12px;
+      margin: 0 60% 10% 3%;
+    }
+
+    #lenses .right_image_padding {
+      margin: -1% 43% 0% 0%;
+    }
+
+    #lenses .left_image_padding2 {
+      padding-left: 4%;
+      margin-top: -3%;
+    }
+
+    #lenses .left_lens_description2 {
+      font-size: 12px;
+      margin: 0% 62% 0% 8%;
+    }
+
+    #lenses .right_image_padding2 {
+      padding-bottom: 10%;
+      margin: 0% 44% 0 0;
+    }
+
+    #footer .footer_links {
+      font-size: 12px;
+      padding: 0 0 0 28%;
+    }
+}
+
+@media only screen and (min-width: 636px) and (max-width: 670px){
+  body {
+    font-size: 12px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .navbar-brand {
+    padding-left: 4%;
+  }
+
+  #jumbo h2 {
+    font-size: 24px;
+  }
+
+  #jumbo h4 {
+    font-size: 15px;
+  }
+
+  #jumbo .vs_column {
+    margin: 5% 2% 9% 10%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 11%;
+    margin-top: -.9%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    padding-top: 3%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 8% 44% 12%;
+  }
+
+  #jumbo img {
+    zoom: 35%;
+  }
+
+  #lenses img {
+    zoom: 25%;
+  }
+
+  #lenses .left_image_padding {
+    padding: 1% 0 0 3%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 12px;
+    margin: 0% 42% 10% 17%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 12px;
+    margin: 0 60% 10% 3%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -1% 36% 0% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 3%;
+    margin-top: -3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 12px;
+    margin: 0% 63% 0% 8%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-bottom: 10%;
+    margin: -3% 38% 0 0;
+  }
+
+  #footer .footer_links {
+    font-size: 12px;
+    padding: 0 0 0 1%;
+  }
+}
+
+@media only screen and (min-width: 671px) and (max-width: 725px){
+  body {
+    font-size: 12px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .navbar-brand {
+    padding-left: 4%;
+  }
+
+  #jumbo h2 {
+    font-size: 24px;
+  }
+
+  #jumbo h4 {
+    font-size: 15px;
+  }
+
+  #jumbo .vs_column {
+    margin: 5% 2% 9% 10%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 11%;
+    margin-top: -.9%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    padding-top: 3%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 8% 44% 12%;
+  }
+
+  #jumbo img {
+    zoom: 35%;
+  }
+
+  #lenses img {
+    zoom: 25%;
+  }
+
+  #lenses .left_image_padding {
+    padding: 1% 0 0 7%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 12px;
+    margin: 0% 39% 10% 20%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 12px;
+    margin: 0 55% 10% 7%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -1% 33% 0% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 6%;
+    margin-top: -3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 12px;
+    margin: 0% 56% 0% 12%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-bottom: 10%;
+    margin: -3% 34% 0 0;
+  }
+
+  #footer .footer_links {
+    font-size: 12px;
+    padding: 0 0 0 1%;
+  }
+}
+
+@media only screen and (min-width: 726px) and (max-width: 754px){
+  body {
+    font-size: 12px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .logo {
+    margin-left: -285%;
+  }
+
+  #jumbo h2 {
+    font-size: 24px;
+  }
+
+  #jumbo h4 {
+    font-size: 14px;
+  }
+
+  #jumbo .vs_column {
+    margin: 5% 12% 9% 16%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 9%;
+    margin-top: -.9%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    padding-top: 3%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 15% 44% 14%;
+  }
+
+  #jumbo img {
+    zoom: 35%;
+  }
+
+  #lenses img {
+    zoom: 25%;
+  }
+
+  #lenses .left_image_padding {
+    padding: 1% 0 0 8%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 12px;
+    margin: 0% 38% 10% 21%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 12px;
+    margin: 0 53% 10% 9%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -1% 32% 0% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 8%;
+    margin-top: -3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 12px;
+    margin: 0% 54% 0% 14%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-bottom: 10%;
+    margin: -3% 33% 0 0;
+  }
+
+  #footer .footer_links {
+    font-size: 12px;
+    padding: 0 0 0 3%;
+  }
+}
+
+@media only screen and (min-width: 755px) and (max-width: 814px){
+  body {
+    font-size: 12px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .navbar-brand {
+    padding-left: 9%;
+  }
+
+  #jumbo h2 {
+    font-size: 24px;
+  }
+
+  #jumbo h4 {
+    font-size: 14px;
+  }
+
+  #jumbo .vs_column {
+    margin: 5% 12% 7% 20%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 7%;
+    margin-top: -.6%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    padding-top: 2%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 15% 44% 14%;
+  }
+
+  #jumbo img {
+    zoom: 40%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 9%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 12px;
+    margin: 0% 34% 10% 25%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 12px;
+    margin: 0 52% 10% 10%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -4% 26% 0% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 9%;
+    margin-top: -3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 12px;
+    margin: 0% 45% 0% 18%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-bottom: 10%;
+    margin: -3% 9% 0 0;
+  }
+
+  #footer .footer_links {
+    font-size: 12px;
+    padding: 0 0 0 4%;
+  }
+}
+
+@media only screen and (min-width: 815px) and (max-width: 917px){
+  body {
+    font-size: 12px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .navbar-brand {
+    padding-left: -17%;
+  }
+
+  #jumbo h2 {
+    font-size: 25px;
+  }
+
+  #jumbo h4 {
+    font-size: 16px;
+  }
+
+  #jumbo .vs_column {
+    margin: 5% 12% 5% 20%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 5%;
+    margin-top: -.2%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    padding-top: 2%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 19% 44% 20%;
+  }
+
+  #jumbo img {
+    zoom: 40%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 14%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 12px;
+    margin: 0% 29% 10% 30%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 12px;
+    margin: 0 47% 10% 16%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -4% 20% 0% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 13%;
+    margin-top: -3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 12px;
+    margin: 0% 46% 0% 21%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-bottom: 10%;
+    margin: -3% 13% 0 0;
+  }
+
+  #footer .footer_links {
+    font-size: 12px;
+    padding: 0 0 0 4%;
+  }
+}
+
+@media only screen and (min-width: 918px) and (max-width: 991px){
+
+  body {
+    font-size: 12px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .logo {
+    margin-left: 8%;
+  }
+
+  #jumbo h2 {
+    font-size: 25px;
+  }
+
+  #jumbo h4 {
+    font-size: 16px;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 17% 5% 20%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 5%;
+    margin-top: -.2%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    padding-top: 2%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 24% 44% 20%;
+  }
+
+  #jumbo img {
+    zoom: 40%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 18%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 12px;
+    margin: 0% 25% 10% 34%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 12px;
+    margin: 0 43% 10% 20%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -4% 16% 0% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 17%;
+    margin-top: -3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 12px;
+    margin: 0% 45% 0% 25%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-bottom: 10%;
+    margin: -3% 17% 0 0;
+  }
+
+  #footer .footer_links {
+    font-size: 12px;
+    padding: 0 0 0 5%;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1034px){
+  body {
+    font-size: 12px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .logo {
+    margin-left: -11%;
+  }
+
+  #jumbo h2 {
+    font-size: 25px;
+  }
+
+  #jumbo h4 {
+    font-size: 16px;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 25% 10% 15%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 5%;
+    margin-top: 0%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 24% 44% 20%;
+  }
+
+  #jumbo img {
+    zoom: 40%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 23%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 12px;
+    margin: 0% 20% 10% 39%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 12px;
+    margin: 0 38% 10% 25%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -4% 12% 0% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 23%;
+    margin-top: -3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 12px;
+    margin: 0% 40% 0% 30%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-bottom: 10%;
+    margin: -3% 12% 0 0;
+  }
+
+  #footer .footer_links {
+    font-size: 12px;
+    padding: 0 0 0 5%;
+  }
+}
+
+@media only screen and (min-width: 1035px) and (max-width: 1061px){
+  body {
+    font-size: 12px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .logo {
+    margin-left: 0%;
+  }
+
+  #jumbo h2 {
+    font-size: 29px;
+  }
+
+  #jumbo h4 {
+    font-size: 16px;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 28% 10% 15%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 5%;
+    margin-top: 0%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 24% 44% 20%;
+  }
+
+  #jumbo img {
+    zoom: 40%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 23%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 12px;
+    margin: 0% 20% 10% 39%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 12px;
+    margin: 0 38% 10% 25%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -4% 12% 0% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 23%;
+    margin-top: -3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 12px;
+    margin: 0% 40% 0% 30%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-bottom: 10%;
+    margin: -3% 12% 0 0;
+  }
+
+  #footer .footer_links {
+    font-size: 12px;
+    padding: 0 0 0 5%;
+  }
+}
+
+@media only screen and (min-width: 1062px) and (max-width: 1085px){
+
+  body {
+    font-size: 12px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .logo {
+    margin-left: 0%;
+  }
+
+  #jumbo h2 {
+    font-size: 29px;
+  }
+
+  #jumbo h4 {
+    font-size: 16px;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 28% 10% 15%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 2%;
+    margin-top: .1%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 24% 44% 20%;
+  }
+
+  #jumbo img {
+    zoom: 40%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 23%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 12px;
+    margin: 0% 20% 10% 39%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 12px;
+    margin: 0 38% 10% 25%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -4% 12% 0% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 23%;
+    margin-top: -3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 12px;
+    margin: 0% 45% 0% 27%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-bottom: 10%;
+    margin: -3% 20% 0 0;
+  }
+
+  #footer .footer_links {
+    font-size: 12px;
+    padding: 0 0 0 5%;
+  }
+}
+
+@media only screen and (min-width: 1086px) and (max-width: 1188px){
+
+  body {
+    font-size: 14px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #nav .logo {
+    margin-left: 0%;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 24% 10% 15%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 5.4%;
+    margin-top: .1%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 24% 44% 20%;
+  }
+
+  #jumbo img {
+    zoom: 40%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 28%;
+  }
+
+  #lenses .right_lens_description {
+    font-size: 14px;
+    margin: 0% 9% 10% 44%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 14px;
+    margin: 0 27% 10% 30%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -4% 0% 0% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 28%;
+    margin-top: -3%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 14px;
+    margin: 0% 40% 0% 29%;
+  }
+
+  #lenses .right_image_padding2 {
+    padding-bottom: 10%;
+    margin: -3% 17% 0 0;
+  }
+
+  #footer .footer_links {
+    font-size: 14px;
+    padding: 0 0 0 5%;
+  }
+}
+
+@media only screen and (min-width: 1189px) and (max-width: 1310px){
+
+  body {
+    font-size: 16px !important;
+  }
+
+  #nav .navbar-brand {
+    padding-left: 48%;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #jumbo h2 {
+    font-size: 34px;
+  }
+
+  #jumbo h4 {
+    font-size: 20px;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 14% 10% 17%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 9%;
+    margin-top: .07%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 18% 32% 20%;
+  }
+
+  #jumbo img {
+    zoom: 40%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 28%
+  }
+
+  #lenses .right_lens_description {
+    font-size: 14px;
+    margin: 0 9% 10% 44%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -4% -1% 0 0;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 14px;
+    margin: 0% 27% 10% 29%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 28%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 14px;
+    margin: 0% 48% 0% 25%;
+  }
+
+  #lenses .right_image_padding2 {
+    margin: 0 24% 10% 0%;
+  }
+
+  #footer .footer_links {
+    font-size: 14px;
+    padding: 0 1% 0 5%;
+  }
+}
+
+@media only screen and (min-width: 1311px) and (max-width: 1436px){
+
+  body {
+    font-size: 16px !important;
+  }
+
+  #nav .navbar-brand {
+    padding-left: 63%;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #jumbo h2 {
+    font-size: 36px;
+  }
+
+  #jumbo h4 {
+    font-size: 20px;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 20% 10% 23%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 7%;
+    margin-top: .55%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 23% 32% 26%;
+  }
+
+  #jumbo img {
+    zoom: 40%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 40%
+  }
+
+  #lenses .right_lens_description {
+    font-size: 14px;
+    margin: 0 -4% 10% 57%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -4% -11% 0 0;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 14px;
+    margin: 0% 17% 10% 41%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 40%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 14px;
+    margin: 0% 45% 0% 31%;
+  }
+
+  #lenses .right_image_padding2 {
+    margin: -2% 24% 10% 0%;
+  }
+
+  #footer .footer_links {
+    font-size: 14px;
+    padding: 0 2% 0 5%;
+  }
+}
+
+@media only screen and (min-width: 1437px) and (max-width: 1543px){
+
+  body {
+    font-size: 16px !important;
+  }
+
+  #nav .navbar-brand {
+    padding-left: 62%;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #jumbo h2 {
+    font-size: 36px;
+  }
+
+  #jumbo h4 {
+    font-size: 20px;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 23% 10% 24%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 5%;
+    margin-top: .55%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 25% 32% 26%;
+  }
+
+  #jumbo img {
+    zoom: 40%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 40%
+  }
+
+  #lenses .right_lens_description {
+    font-size: 14px;
+    margin: 0 -4% 10% 57%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -4% -10% 0 0;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 14px;
+    margin: 0% 16% 10% 41%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 40%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 14px;
+    margin: 0% 45% 0% 31%;
+  }
+
+  #lenses .right_image_padding2 {
+    margin: -2% 24% 10% 0%;
+  }
+
+  #footer .footer_links {
+    font-size: 14px;
+    padding: 0 2% 0 5%;
+  }
+}
+
+@media only screen and (min-width: 1544px) and (max-width: 1568px){
+
+  body {
+    font-size: 16px !important;
+  }
+
+  #nav .logo {
+    margin-left: 98%;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #jumbo h2 {
+    font-size: 38px;
+  }
+
+  #jumbo h4 {
+    font-size: 22px;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 24% 10% 24%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 5%;
+    margin-top: .55%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 25% 32% 28%;
+  }
+
+  #jumbo img {
+    zoom: 40%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 48%
+  }
+
+  #lenses .right_lens_description {
+    font-size: 14px;
+    margin: 0 -11% 10% 64%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -4% -18% 0 0;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 14px;
+    margin: 0% 9% 10% 49%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 48%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 14px;
+    margin: 0% 44% 0% 34%;
+  }
+
+  #lenses .right_image_padding2 {
+    margin: -2% 26% 10% 0%;
+  }
+
+  #footer .footer_links {
+    font-size: 14px;
+    padding: 0 1% 0 6%;
+  }
+}
+
+@media only screen and (min-width: 1569px) and (max-width: 1694px){
+
+  body {
+    font-size: 16px !important;
+  }
+
+  #nav .logo {
+    margin-left: 110%;
+  }
+
+  .resize_image_25 {
+    zoom: 30%;
+  }
+
+  #jumbo h2 {
+    font-size: 36px;
+  }
+
+  #jumbo h4 {
+    font-size: 21px;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 27% 10% 24%;
+  }
+
+  #jumbo .partners_background_coloring {
+    padding-bottom: 5%;
+    margin-top: .55%;
+  }
+
+  #jumbo .partner_column_margins {
+    margin: 10% 27% 32% 29%;
+  }
+
+  #jumbo img {
+    zoom: 40%;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 53%
+  }
+
+  #lenses .right_lens_description {
+    font-size: 14px;
+    margin: 0 -16% 10% 70%;
+  }
+
+  #lenses .right_image_padding {
+    margin: -4% -26% 0 0;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 14px;
+    margin: 0% 2% 10% 56%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 53%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 14px;
+    margin: 0% 44% 0% 35%;
+  }
+
+  #lenses .right_image_padding2 {
+    margin: -2% 27% 10% 0%;
+  }
+
+  #footer .footer_links {
+    font-size: 14px;
+    padding: 0 0 0 7%;
+  }
+}
+
+@media only screen and (min-width: 1695px) and (max-width: 1719px){
+
+  body {
+    font-size: 16px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 40%;
+  }
+
+  #nav .logo {
+    width: 165%;
+  }
+
+  #jumbo .partners_background_coloring {
+    margin-top:14px;
+    padding-bottom: 5%;
+  }
+
+  #jumbo img{
+    margin-top:20%;
+    margin-bottom: 5%;
+    display:inline-block;
+    zoom: 50%;
+  }
+
+  #jumbo .paragraph_2 {
+    margin-right: 11%;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 21% 10% 25%;
+  }
+
+  #jumbo .partners_text_coloring {
+    margin: 10% 14% 0 20%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    margin-left: 18%;
+  }
+
+  #jumbo .right_partner_column_spacing {
+    margin-left: 10%;
+  }
+
+  #jumbo h2 {
+    font-size: 38px;
+  }
+
+  #jumbo h4 {
+    font-size: 23px;
+  }
+
+  #lenses .title_styling {
+    padding: 5% 0 6% 0;
+  }
+  #lenses .left_image_padding {
+    padding-left: 49%;
+  }
+
+  #lenses .right_lens_description {
+    margin: 0 -24% 0 72%;
+    font-size: 16px;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 16px;
+    padding-top:10%;
+    margin: 0% -1% 10% 52%;
+  }
+
+  #lenses .right_image_padding {
+    margin: 4% -33% 10% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 47%;
+    padding-bottom: 10%;
+    margin-top: -5%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 14px;
+    margin: 0% 46% 0% 33%;
+  }
+
+  #lenses .right_image_padding2 {
+    margin: -2% 22% 10% 0%;
+  }
+
+  #footer .footer_links {
+    font-size: 16px;
+    padding: 0 2% 0 5%;
+  }
+}
+
+@media only screen and (min-width: 1720px) and (max-width: 1773px){
+
+  body {
+    font-size: 16px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 40%;
+  }
+
+  #nav .logo {
+    width: 165%;
+  }
+
+  #jumbo .partners_background_coloring {
+    margin-top:14px;
+    padding-bottom: 5%;
+  }
+
+  #jumbo img{
+    margin-top:20%;
+    margin-bottom: 5%;
+    display:inline-block;
+    zoom: 50%;
+  }
+
+  #jumbo .paragraph_2 {
+    margin-right: 11%;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 25% 10% 25%;
+  }
+
+  #jumbo .partners_text_coloring {
+    margin: 10% 15% 0 20%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    margin-left: 18%;
+  }
+
+  #jumbo .right_partner_column_spacing {
+    margin-left: 10%;
+  }
+
+  #jumbo h2 {
+    font-size: 38px;
+  }
+
+  #jumbo h4 {
+    font-size: 23px;
+  }
+
+  #lenses .title_styling {
+    padding: 5% 0 6% 0;
+  }
+  #lenses .left_image_padding {
+    padding-left: 51%;
+  }
+
+  #lenses .right_lens_description {
+    margin: 0 -27% 0 75%;
+    font-size: 16px;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 16px;
+    padding-top:10%;
+    margin: 0% -3% 10% 54%;
+  }
+
+  #lenses .right_image_padding {
+    margin: 4% -38% 10% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 50%;
+    padding-bottom: 10%;
+    margin-top: -5%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 14px;
+    margin: 0% 46% 0% 34%;
+  }
+
+  #lenses .right_image_padding2 {
+    margin: -2% 21% 10% 0%;
+  }
+
+  #footer .footer_links {
+    font-size: 16px;
+    padding: 0 1% 0 7%;
+  }
+}
+
+@media only screen and (min-width: 1774px) and (max-width: 1828px){
+
+  body {
+    font-size: 16px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 40%;
+  }
+
+  #nav .logo {
+    width: 175%;
+  }
+
+  #jumbo h2 {
+    font-size: 38px;
+  }
+
+  #jumbo h4 {
+    font-size: 23px;
+  }
+
+  #jumbo .partners_background_coloring {
+    margin-top:14px;
+    padding-bottom: 5%;
+  }
+
+  #jumbo img{
+    margin-top:20%;
+    margin-bottom: 5%;
+    display:inline-block;
+    zoom: 50%;
+  }
+
+  #jumbo .paragraph_2 {
+    margin-right: 11%;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 25% 10% 25%;
+  }
+
+  #jumbo .partners_text_coloring {
+    margin: 10% 16% 0 20%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    margin-left: 18%;
+  }
+
+  #jumbo .right_partner_column_spacing {
+    margin-left: 10%;
+  }
+
+  #lenses .title_styling {
+    padding: 5% 0 6% 0;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 55%;
+  }
+
+  #lenses .right_lens_description {
+    margin: 0 -29% 0 78%;
+    font-size: 16px;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 16px;
+    padding-top:10%;
+    margin: 0% -8% 10% 59%;
+  }
+
+  #lenses .right_image_padding {
+    margin: 4% -43% 10% 0%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 54%;
+    padding-bottom: 10%;
+    margin-top: -5%;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 14px;
+    margin: 0% 46% 0% 34%;
+  }
+
+  #lenses .right_image_padding2 {
+    margin: -2% 23% 10% 0%;
+  }
+
+  #footer .footer_links {
+    font-size: 16px;
+    padding: 0 5% 0 4%;
+  }
+}
+
+@media only screen and (min-width: 1829px) and (max-width: 1887px){
+
+  body {
+    font-size: 16px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 40%;
+  }
+
+  #nav .logo {
+    width: 187%;
+  }
+
+  #jumbo h2 {
+    font-size: 38px;
+  }
+
+  #jumbo h4 {
+    font-size: 23px;
+  }
+
+  #jumbo .partners_background_coloring {
+    margin-top:14px;
+    padding-bottom: 5%;
+  }
+
+  #jumbo img{
+    margin-top:20%;
+    margin-bottom: 5%;
+    display:inline-block;
+    zoom: 50%;
+  }
+
+  #jumbo .paragraph_2 {
+    margin-right: 11%;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 27% 10% 25%;
+  }
+
+  #jumbo .partners_text_coloring {
+    margin: 10% 17% 0 20%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    margin-left: 18%;
+  }
+
+  #jumbo .right_partner_column_spacing {
+    margin-left: 10%;
+  }
+
+  #lenses .title_styling {
+    padding: 5% 0 6% 0;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 59%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 59%;
+    padding-bottom: 10%;
+    margin-top: -5%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 16px;
+    padding-top:10%;
+    margin: 0% -9% 10% 62%;
+  }
+
+  #lenses .right_image_padding {
+    margin: 4% -48% 10% 0%;
+  }
+
+  #lenses .right_image_padding2 {
+    margin: -5% -48% 0% 3%;
+    padding-bottom: 10%;
+  }
+
+  #lenses .right_lens_description {
+    margin: 0 -34% 0 83%;
+    font-size: 16px;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 16px;
+    margin: 0% 45% 0% 34%;
+  }
+
+  #lenses .right_image_padding2 {
+    margin: -2% 23% 0% 0%;
+  }
+
+  #footer .footer_links {
+    font-size: 16px;
+    padding: 0 5% 0 4%;
+  }
+}
+
+@media only screen and (min-width: 1888px) and (max-width: 1999px){
+
+  body {
+    font-size: 16px !important;
+  }
+
+  .resize_image_25 {
+    zoom: 40%;
+  }
+
+  #nav .logo {
+    width: 187%;
+  }
+
+  #jumbo h2 {
+    font-size: 38px;
+  }
+
+  #jumbo h4 {
+    font-size: 23px;
+  }
+
+  #jumbo .partners_background_coloring {
+    margin-top:14px;
+    padding-bottom: 5%;
+  }
+
+  #jumbo img{
+    margin-top:20%;
+    margin-bottom: 5%;
+    display:inline-block;
+    zoom: 50%;
+  }
+
+  #jumbo .paragraph_2 {
+    margin-right: 11%;
+  }
+
+  #jumbo .vs_column {
+    margin: 10% 27% 10% 25%;
+  }
+
+  #jumbo .partners_text_coloring {
+    margin: 10% 18% 0 20%;
+  }
+
+  #jumbo .left_partner_column_spacing {
+    margin-left: 18%;
+  }
+
+  #jumbo .right_partner_column_spacing {
+    margin-left: 10%;
+  }
+
+  #lenses .title_styling {
+    padding: 5% 0 6% 0;
+  }
+
+  #lenses .left_image_padding {
+    padding-left: 59%;
+  }
+
+  #lenses .left_image_padding2 {
+    padding-left: 59%;
+    padding-bottom: 10%;
+    margin-top: -5%;
+  }
+
+  #lenses .left_lens_description {
+    font-size: 16px;
+    padding-top:10%;
+    margin: 0% -9% 10% 62%;
+  }
+
+  #lenses .right_image_padding {
+    margin: 4% -48% 10% 0%;
+  }
+
+  #lenses .right_lens_description {
+    margin: 0 -34% 0 83%;
+    font-size: 16px;
+  }
+
+  #lenses .left_lens_description2 {
+    font-size: 16px;
+    margin: 0% 46% 0% 33%;
+  }
+
+  #lenses .right_image_padding2 {
+    margin: -2% 24% 5% 0%;
+  }
+}

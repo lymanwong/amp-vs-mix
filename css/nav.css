@@ -1,0 +1,18 @@
+/*NAVBAR STYLING*/
+
+#nav .navbar {
+  border-radius: 0;
+}
+
+#nav .navbar-default {
+  background-color: #14649c;
+}
+
+#nav .logo {
+  width: 100px;
+  height: 25px;
+}
+
+#nav .navbar-brand {
+  padding-left: 45%;
+}
